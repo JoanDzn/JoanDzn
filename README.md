@@ -1,17 +1,19 @@
-<h1 align="center">Hi, I'm JoanDzn  💻</h1>
-<h3 align="center">I'm a Front-End Developer & Web Designer</h3>
+<h1 align="center">Hi, I'm JoanDzn  👨‍💻</h1>
+<h3 align="center">I'm a Front-End Developer & Web Designer 🔭 </h3>
 <br>
+
+<div align="center">
 - 🔭 I’m currently working on [Fodies](webhost000.hasweit.net)
 
-<div align="right">- 🌱 I’m currently learning **THIS IS A LEARNING**</div>
+- 🌱 I’m currently learning **THIS IS A LEARNING**
 
 - 👯 I’m looking to collaborate on [Zazies](aasd.net)
 
-<div align="right">- 🤝 I’m looking for help with [Poppies](aksdsa.com)</div>
-
+- 🤝 I’m looking for help with [Poppies](aksdsa.com)
+</div>
 <hr>
 <div align="center">
-- 👨‍💻 My Portfolio [joandzn.com](joandzn.com)
+- 👨‍💻 My Portfolio **www.joandzn.com**
 
 - 📫 Contact me **contact.joandzn@gmail.com**
 </div>
