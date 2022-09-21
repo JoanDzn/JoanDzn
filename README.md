@@ -1,19 +1,17 @@
 <h1 align="center">Hi, I'm JoanDzn  👨‍💻</h1>
-<h3 align="center">I'm a Front-End Developer & Web Designer 🔭 </h3>
-<br>
+<h3 align="center">Materialize your big dreams and ideas 🔭</h3>
 
 <div align="center">
-🔭 I’m currently working on [Fodies](hasweit.net)<br>
-🌱 I’m currently learning THIS IS A LEARNING<br>
-👯 I’m looking to collaborate on [Zazies](aasd.net)<br>
-🤝 I’m looking for help with [Poppies](aksdsa.com)
+🤝  I'm a Front-End Developer & Web Designer. <br>
+🌱 I make Websites Responsive Design and Simple Design. <br>
+👯 I have Big Projects in mind and I want to Participate in some.<br>
+📫 Do you have a Dream in Mind? Make it happen! Contact me.
 
 </div>
 <hr>
 <div align="center">
-👨‍💻 My Portfolio www.joandzn.com
+👨‍💻 My Portfolio www.github.io/portofolio_joandzn.com
 
-📫 Contact me contact.joandzn@gmail.com
 </div>
 
 <h3 align="center">Connect with me:</h3>
