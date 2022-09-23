@@ -10,8 +10,7 @@
 </div>
 <hr>
 <div align="center">
-👨‍💻 My Portfolio www.github.io/portofolio_joandzn.com
-
+👨‍💻 My Portfolio joandzn.github.io
 </div>
 
 <h3 align="center">Connect with me:</h3>
