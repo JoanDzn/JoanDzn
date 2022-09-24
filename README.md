@@ -10,7 +10,8 @@
 </div>
 <hr>
 <div align="center">
-👨‍💻 My Portfolio www.joandzn.github.io
+👨‍💻 My Portfolio joandzn.github.io <br>
+📫 Contact me contact.joandzn@gmail.com
 </div>
 
 <h3 align="center">Connect with me:</h3>
